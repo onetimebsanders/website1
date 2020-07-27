@@ -1,23 +1,23 @@
 /* Imported fonts    */
 @font-face {
     font-family: apex;
-    src:url(fonts/ApexMk2/apex-mk2.regular.otf);
+    src:url(apex-mk2.regular.otf);
 }
 @font-face {
     font-family: apexExt;
-    src:url(fonts/ApexMk2/apex-mk2.bold-extended.otf);
+    src:url(apex-mk2.bold-extended.otf);
 }
 @font-face {
     font-family: apexCon;
-    src:url(fonts/ApexMk2/apex-mk2.light-condensed.otf);
+    src:url(apex-mk2.light-condensed.otf);
 }
 @font-face {
     font-family: duke;
-    src:url(fonts/Duke/Duke\ Fill.otf);
+    src:url(Duke-Fill.otf);
 }
 @font-face {
     font-family: teko;
-    src:url(fonts/Teko/Teko-Regular.ttf);
+    src:url(Teko-Regular.ttf);
 }
 
 *{
@@ -26,34 +26,34 @@
 }
 /* Background styling     */
 #homePage{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-bangalore.png);
+    background-image: url(apex-concept-art-wallpaper-bangalore.png);
 }
 #page1{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-bloodhound.png);
+    background-image: url(apex-concept-art-wallpaper-bloodhound.png);
 }
 #page2{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-crypto.jpg);
+    background-image: url(apex-concept-art-wallpaper-crypto.jpg);
 }
 #page3{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-gibraltar.png);
+    background-image: url(apex-concept-art-wallpaper-gibraltar.png);
 }
 #page4{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-lifeline.png);
+    background-image: url(apex-concept-art-wallpaper-lifeline.png);
 }
 #page5{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-mirage.png);
+    background-image: url(apex-concept-art-wallpaper-mirage.png);
 }
 #page6{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-octane.jpg);
+    background-image: url(apex-concept-art-wallpaper-octane.jpg);
 }
 #page7{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-wattson.png);
+    background-image: url(apex-concept-art-wallpaper-wattson.png);
 }
 #pageAbout{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-wraith.png);
+    background-image: url(apex-concept-art-wallpaper-wraith.png);
 }
 #pageContact{
-    background-image: url(images/backgrounds/apex-concept-art-wallpaper-pathfinder.png);
+    background-image: url(apex-concept-art-wallpaper-pathfinder.png);
 }
 html {
     background-attachment: fixed;
